@@ -25,4 +25,34 @@ def run_tests():
 
 # Edit this code
 def biggest(a, b, c):
+    if a < b:
+        print("b")
+
+    elif a < c:
+        print("c")
+
+    elif b < c:
+        print("c")
+
+    elif b < a:
+        print("a")
+
+    elif c < a:
+        print("a")
+
+    elif c < b:
+        print("b")
+
+    elif a == b:
+        print("A")
+
+    elif a == c:
+        print("c")
+
+    else:
+        print("b")
+
+
+
+    
 

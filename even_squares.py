@@ -25,3 +25,11 @@ def run_tests():
 
 # Edit this code
 def even_squares(n):
+    
+    if n % 2 == 0:
+        print(n * n)
+
+    else:
+        print(n)
+            
+        

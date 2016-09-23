@@ -34,3 +34,4 @@ def run_tests():
 
 # Edit this code
 def challenge(team1, team2):
+    if team1
