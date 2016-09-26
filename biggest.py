@@ -44,7 +44,7 @@ def biggest(a, b, c):
         print("b")
 
     elif a == b:
-        print("A")
+        print("a")
 
     elif a == c:
         print("c")
