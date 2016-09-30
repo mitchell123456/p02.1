@@ -29,15 +29,15 @@ def run_tests():
 
 
 def roll_double(dice1, dice2):
-    if dice1 == 2 and dice2 == 5:
-        print(7)
+    if dice1 == n and dice2 == i:
+        print(n + i)
 
-    elif dice1 == 4 and dice2 == 5:
-        print(9)
+    elif dice1 == n and dice2 == i:
+        print(n + i)
 
-    elif dice1 == 2 and dice2 == 2:
-        print(8)
+    elif dice1 == n and dice2 == n:
+        print(n * n + n * n)
 
-    elif dice1 == 5 and dice2 == 5:
-        print(20)
+    elif dice1 == n and dice2 == n:
+        print(n * n + n * n)
         
