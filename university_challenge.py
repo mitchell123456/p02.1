@@ -44,6 +44,6 @@ def challenge(team1, team2):
         print("Team 1 progresses")
         
     else:
-        print("team 2 progresses")
+        print("Team 2 progresses")
         
         
